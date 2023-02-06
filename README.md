@@ -1,5 +1,5 @@
 
-![logo]("https://github.com/Ch-Jameel/Ch-Jameel/blob/main/Data-Science-Roadmap-2-1030x588.png.png")
+![logo](https://github.com/Ch-Jameel/Ch-Jameel/blob/main/Data-Science-Roadmap-2-1030x588.png.png)
 <h1 align="center"> I'm M Jameel</h1>
 <h3 align="center">A passionate Data Scientist from Pakistan. I am doing my MS in data science from FAST university Islambad.</h3>
 <img alt="coding" align="right" width="400" src="https://miro.medium.com/max/1400/1*bhFifratH9DjKqMBTeQG5A.gif">
