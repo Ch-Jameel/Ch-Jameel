@@ -4,7 +4,7 @@
 <h3 align="center">A passionate Data Scientist from Pakistan. I am doing my MS in data science from FAST university Islambad.</h3>
 <img alt="coding" align="right" width="400" src="https://miro.medium.com/max/1400/1*bhFifratH9DjKqMBTeQG5A.gif">
 
-- 🌱 I’m currently learning **Deep learning,Tableau**
+- 🌱 I’m currently learning **AWS,Tableau**
 
 - ⚡ Fun fact **Not Sure 😆**
 
