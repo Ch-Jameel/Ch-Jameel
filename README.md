@@ -4,6 +4,8 @@
 <h3 align="center">A passionate Data Scientist from Pakistan. I have done my MS in data science from FAST University Islamabad.</h3>
 <img alt="coding" align="right" width="400" src="https://miro.medium.com/max/1400/1*bhFifratH9DjKqMBTeQG5A.gif">
 
+- [Visit PortFolio Repo](https://github.com/Ch-Jameel/PortFolio)
+
 - 🌱 I’m currently learning **AWS,Tableau**
 
 - ⚡ Fun fact **Not Sure 😆**
